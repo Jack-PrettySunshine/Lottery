@@ -1,2 +1,2 @@
 # Lottery
-# [预览](https://jack-prettysunshine.github.io/Lottery/luckyOne/)
+# [预览](https://lee981265.github.io/Lottery/luckyOne/)
